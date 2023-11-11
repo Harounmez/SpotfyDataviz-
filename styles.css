@@ -1,0 +1,11 @@
+body {
+    background-color: lightgreen; /* Set the background color to light green */
+}
+
+
+
+.dashboard .bk-root .bk-tab {
+    font-size: 100px;  /* Adjust the font size as needed */
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
